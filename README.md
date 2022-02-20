@@ -36,3 +36,5 @@ for x in usuarios:
 ###### Hay varios falso positivos, se puede personalizar el json con las paginas webs, luego lo voy a estar actualizando agregandole mas funciones
 
 ![Script](Captura.PNG)
+
+###### Cualquier duda o consulta preguntame a mi discord personal: `Carson#9752`
