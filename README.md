@@ -35,3 +35,4 @@ for x in usuarios:
 
 ###### Hay varios falso positivos, se puede personalizar el json con las paginas webs, luego lo voy a estar actualizando agregandole mas funciones
 
+![Script](Captura.PNG)
