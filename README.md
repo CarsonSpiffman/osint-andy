@@ -8,8 +8,11 @@ A simple library for user osinting and account discovery
 git clone https://github.com/CarsonSpiffman/osint-andy
 ```
 #### 2) En el mismo directorio crear un archivo Python
+#### 3) Instalar dependencias
+>pip install tinydb
 
-#### 3) Ejemplos
+>pip install colorama
+#### Ejemplos
 ###### Uso basico
 ```python
 from osintAndy import osintRecon
